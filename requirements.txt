@@ -1,0 +1,9 @@
+torch 
+torchvision 
+torchaudio
+transformers
+accelerate>=0.26.0
+uvicorn
+fastapi
+pytz
+# python3 -m pip install sqlalchemy
